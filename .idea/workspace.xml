@@ -2,29 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bb8bb1ee-6989-4b6f-924b-531242172e27" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/public/img/subpage/header/biography_header.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/subpage/header/history_header.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/subpage/header/mission_header.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/subpage/header/partners_header.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/subpage/header/supporters_header.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/subpage/header/team_header.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/WLProgrammes.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/WLProgrammes.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/aboutUs/about.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/aboutUs/about.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/aboutUs/biography.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/aboutUs/biography.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/aboutUs/contactUs.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/aboutUs/contactUs.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/aboutUs/currentUsers.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/aboutUs/currentUsers.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/aboutUs/history.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/aboutUs/history.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/aboutUs/mission.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/aboutUs/mission.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/aboutUs/partners.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/aboutUs/partners.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/aboutUs/supporters.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/aboutUs/supporters.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/aboutUs/team.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/aboutUs/team.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/functionalRooms.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/functionalRooms.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/gallery.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/gallery.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/membership.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/membership.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/news.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/news.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/offices.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/offices.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/volunteers.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/volunteers.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/css/style.css" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -50,11 +28,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="team.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/public/aboutUs/team.php">
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/public/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="241">
-              <caret line="97" column="99" selection-start-line="97" selection-start-column="99" selection-end-line="97" selection-end-column="99" />
+            <state relative-caret-position="25932">
+              <caret line="918" column="21" selection-start-line="918" selection-start-column="21" selection-end-line="918" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -125,11 +103,11 @@
         <option value="$PROJECT_DIR$/public/WLProgrammes.php" />
         <option value="$PROJECT_DIR$/public/aboutUs/history.php" />
         <option value="$PROJECT_DIR$/public/aboutUs/mission.php" />
-        <option value="$PROJECT_DIR$/public/css/style.css" />
         <option value="$PROJECT_DIR$/public/aboutUs/biography.php" />
         <option value="$PROJECT_DIR$/public/aboutUs/supporters.php" />
         <option value="$PROJECT_DIR$/public/aboutUs/partners.php" />
         <option value="$PROJECT_DIR$/public/aboutUs/team.php" />
+        <option value="$PROJECT_DIR$/public/css/style.css" />
       </list>
     </option>
   </component>
@@ -244,7 +222,7 @@
       <path value="$PROJECT_DIR$/vendor/symfony/inflector" />
     </include_path>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="y" value="23" />
     <option name="width" value="1122" />
     <option name="height" value="777" />
@@ -350,15 +328,15 @@
       <option name="presentableId" value="Default" />
       <updated>1531776834782</updated>
       <workItem from="1531776838759" duration="7134000" />
-      <workItem from="1532211664495" duration="33269000" />
+      <workItem from="1532211664495" duration="33687000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="40403000" />
+    <option name="totallyTimeSpent" value="40821000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1122" height="777" extended-state="0" />
+    <frame x="0" y="23" width="1280" height="777" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -368,7 +346,7 @@
       <window_info id="npm" side_tool="true" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32876712" />
       <window_info anchor="bottom" id="Terminal" weight="0.6697108" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20185184" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17609046" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="right" id="Database" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -586,13 +564,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="618" column="30" selection-start-line="618" selection-start-column="30" selection-end-line="618" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/public/img/subpage/header/history_header.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -638,6 +609,13 @@
     <entry file="file://$PROJECT_DIR$/public/img/subpage/header/mission_header.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/public/aboutUs/team.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="241">
+          <caret line="97" column="99" selection-start-line="97" selection-start-column="99" selection-end-line="97" selection-end-column="99" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/public/img/subpage/header/team_header.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -651,10 +629,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/aboutUs/team.php">
+    <entry file="file://$PROJECT_DIR$/public/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="241">
-          <caret line="97" column="99" selection-start-line="97" selection-start-column="99" selection-end-line="97" selection-end-column="99" />
+        <state relative-caret-position="25932">
+          <caret line="918" column="21" selection-start-line="918" selection-start-column="21" selection-end-line="918" selection-end-column="21" />
         </state>
       </provider>
     </entry>

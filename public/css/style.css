@@ -28,7 +28,7 @@ h1, h2, h3, h4, h5 {
 }
 
 .theme-colour {
-  color: #bc5148;
+  color: #037f51;
 }
 
 .bigger-font-size {
@@ -88,7 +88,7 @@ textarea.form-control {
 
 .btn.btn-outline-primary {
   border-width: 2px;
-  color: #bc5148;
+  color: #037f51;
 }
 
 .btn.btn-outline-primary:hover, .btn.btn-outline-primary:focus, .btn.btn-outline-primary:active {
@@ -128,12 +128,12 @@ header .navbar-brand {
 }
 
 header .navbar-brand span {
-  color: #bc5148;
+  color: #037f51;
 }
 
 header .top-bar {
   background: #dee2e6;
-  background: #bc5148;
+  background: #037f51;
 }
 
 header .top-bar a {
@@ -253,7 +253,7 @@ header .navbar .nav-link {
 }
 
 header .navbar .nav-link.active {
-  color: #bc5148 !important;
+  color: #037f51 !important;
 }
 
 header .navbar .dropdown-menu {
@@ -280,12 +280,12 @@ header .navbar .dropdown-menu:before {
 }
 
 header .navbar .dropdown-menu .dropdown-item:hover {
-  background: #bc5148;
+  background: #037f51;
   color: #fff;
 }
 
 header .navbar .dropdown-menu .dropdown-item.active {
-  background: #bc5148;
+  background: #037f51;
   color: #fff;
 }
 
@@ -295,7 +295,7 @@ header .navbar .dropdown-menu a {
 }
 
 header .navbar .cta-btn a {
-  background: #bc5148;
+  background: #037f51;
   color: #000 !important;
   padding-left: 20px !important;
   padding-right: 20px !important;
@@ -321,7 +321,7 @@ header .navbar .cta-btn a:hover {
 }
 
 .cta-overlap .text {
-  background: #bc5148;
+  background: #037f51;
   padding: 3em 2em;
   -webkit-box-shadow: 0 1px 30px -4px rgba(0, 0, 0, 0.2);
   box-shadow: 0 1px 30px -4px rgba(0, 0, 0, 0.2);
@@ -349,7 +349,7 @@ header .navbar .cta-btn a:hover {
 
 .custom-icon {
   font-size: 70px;
-  color: #bc5148;
+  color: #037f51;
 }
 
 .age {
@@ -414,7 +414,7 @@ header .navbar .cta-btn a:hover {
 }
 
 .owl-carousel .owl-dots .owl-dot.active {
-  background: #bc5148;
+  background: #037f51;
 }
 
 .owl-carousel.home-slider {
@@ -605,7 +605,7 @@ header .navbar .cta-btn a:hover {
 }
 
 .breadcrumb-custom li a {
-  color: #bc5148;
+  color: #037f51;
 }
 
 .breadcrumb-custom li a:hover {
@@ -713,7 +713,7 @@ header .navbar .cta-btn a:hover {
   -webkit-transform: translateX(-50%);
   -ms-transform: translateX(-50%);
   transform: translateX(-50%);
-  background: #bc5148;
+  background: #037f51;
 }
 
 .text-black {
@@ -742,7 +742,7 @@ header .navbar .cta-btn a:hover {
 
 .media-feature .icon {
   font-size: 60px;
-  color: #bc5148;
+  color: #037f51;
 }
 
 .media-feature h3 {
@@ -757,7 +757,7 @@ header .navbar .cta-btn a:hover {
   -ms-transform: scale(1.05);
   transform: scale(1.05);
   z-index: 2;
-  border-bottom: 10px solid #bc5148;
+  border-bottom: 10px solid #037f51;
 }
 
 .media-custom {
@@ -829,7 +829,7 @@ header .navbar .cta-btn a:hover {
   display: block;
   text-align: left;
   text-decoration: none;
-  color: #bc5148;
+  color: #037f51;
   position: relative;
   -webkit-box-shadow: 0 3px 10px -2px rgba(0, 0, 0, 0.2) !important;
   box-shadow: 0 3px 10px -2px rgba(0, 0, 0, 0.2) !important;
@@ -916,7 +916,7 @@ header .navbar .cta-btn a:hover {
 .site-footer {
   padding: 5em 0;
   background: #f2f2f2;
-  background: #bc5148;
+  background: #037f51;
   font-size: 13px;
   color: rgba(255, 255, 255, 0.5);
 }
