@@ -43,7 +43,7 @@
 
 <span class="clearfix"></span>
 <div class="bg-white">
-    <?php include_once '../footer.php' ?>
+    <?php include_once 'aboutUs_footer.php' ?>
 </div>
 </body>
 </html>
